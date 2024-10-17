@@ -1,14 +1,28 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "npm-lesson",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/\r #\u0000 \u0000b\u0000o\u0000i\u0000l\u0000e\u0000r\u0000p\u0000l\u0000a\u0000t\u0000e\u0000-\u0000n\u0000p\u0000m\u0000\r\u0000 \u0000#\u0000 \u0000b\u0000o\u0000i\u0000l\u0000e\u0000r\u0000p\u0000l\u0000a\u0000t\u0000e\u0000-\u0000n\u0000p\u0000m\u0000\r\u0000 \u0000",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+  "version": "1.0.0",
+  "keywords": [
+    "npm",
+    "node",
+    "express",
+    "backend"
+  ],
+  "author": "Esther KPETEMEY",
+  "license": "ISC"
 }
