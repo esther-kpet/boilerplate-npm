@@ -1,5 +1,6 @@
 {
   "name": "npm-lesson",
+  "author": "Esther KPETEMEY",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -23,6 +24,5 @@
     "express",
     "backend"
   ],
-  "author": "Esther KPETEMEY",
   "license": "ISC"
 }
